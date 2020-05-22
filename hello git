@@ -2,3 +2,7 @@ a='hello git'
 print(a)
 b='hello man we start the work'
 print(b)
+a1=10
+a2=100
+a3=1000
+d=a1-a2+a3
