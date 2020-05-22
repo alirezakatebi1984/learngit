@@ -6,3 +6,4 @@ a1=10
 a2=100
 a3=1000
 d=a1-a2+a3
+print('i agree to do it')
